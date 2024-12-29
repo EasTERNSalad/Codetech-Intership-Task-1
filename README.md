@@ -24,7 +24,8 @@ This project demonstrates how to use an Arduino to create a simple LED blinking 
 ---
 
 ### Circuit Diagram  
-The circuit consists of an Arduino Uno connected to an LED through a 220-ohm resistor. The positive terminal of the LED (anode) is connected to *Pin 13* on the Arduino, and the negative terminal (cathode) is connected to the ground (GND) through the resistor.
+The circuit consists of an Arduino Uno connected to an LED through a 220-ohm resistor. The positive terminal of the LED (anode) is connected to *Pin 13* on the Arduino, and the negative terminal (cathode) is connected to the ground (GND) through the resistor.<img width="456" alt="image" src="https://github.com/user-attachments/assets/6c42d87c-7eab-4faa-a8e3-2515f68bdd99" />
+
 
 ---
 
