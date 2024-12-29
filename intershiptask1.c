@@ -1,5 +1,5 @@
-int ledCount = 9;
-int ledPins[] = {5, 6, 7, 8, 9, 10, 11, 12, 13};
+int ledCount = 6;
+int ledPins[] = {8, 9, 10, 11, 12, 13};
 int ledDelay = 300;
 
 void setup() {
